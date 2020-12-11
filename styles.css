@@ -155,7 +155,8 @@ nav > ul {
   height: 30px;
   margin: 15px 0;
   border: 0;
-  background-color: #f1c40f;
+  color: white;
+  background-color: #1464ac;
 }
 
 #hero input[type="submit"]:hover {
@@ -179,7 +180,8 @@ nav > ul {
   justify-content: center;
   height: 125px;
   width: 20vw;
-  color: darkorange;
+  color: #1464ac;
+  font-size: 3em;
 }
 
 @media (max-width: 550px) {
@@ -265,12 +267,12 @@ nav > ul {
 .product > button {
   border: 0;
   margin: 15px 0;
-  background-color: #f1c40f;
+  background-color: #1464ac;
   font-weight: 400;
 }
 
 .product > button:hover {
-  background-color: orange;
+  background-color:#447cbc;
   transition: background-color 1s;
 }
 
